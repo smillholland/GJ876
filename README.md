@@ -1,3 +1,10 @@
+Gliese 876 -- Supplementary Material
+==================================================
+
+This respository contains supplementary material to the paper <br />
+Millholland, S., et al. <i> Gliese 876 -- Exemplar of Mean-Motion Resonance <i /> 2017, in prep
+  
+
 
 Columns  <br />
 0-3 Periods (days)  <br />
