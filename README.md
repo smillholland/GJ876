@@ -6,9 +6,7 @@ Millholland, S., et al. <i> Gliese 876 - Exemplar of Mean-Motion Resonance. </i>
 
 The file "posterior_samples.csv" contains the DE-MCMC posterior parameter samples for the four-planet coplanar fit, which is 
 described in Section 4 and summarized in Table 4 of the paper. To fit within GitHub's size limitations, the posterior
-samples were thinned by uniqueness.
-
-The columns of the file are as follows. For the planet
+samples were thinned by uniqueness. The columns of "posterior_samples.csv" are as follows. For the planet
 parameters, the columns are in orbital period order (i.e. planets "d", "c", "b", "e"). 
 
 0-3 Periods (days)  <br />
