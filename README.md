@@ -1,6 +1,6 @@
 
 
-0-3 Periods (days) 
+0-3 Periods (days)  <br />
 4-7 Semi-major axes (AU)
 
 8-11 Masses (Earth masses)
