@@ -1,4 +1,4 @@
-Gliese 876 --- Supplementary Material
+Gliese 876 - Supplementary Material
 ==================================================
 
 This respository contains supplementary material to the paper <br />
