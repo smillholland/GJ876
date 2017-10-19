@@ -16,7 +16,7 @@ To fit within GitHub's size limitations, the posterior samples were thinned by u
 24-27 Arg. of peri. plus mean anom. (degrees)  <br />
 28 Inclination (degrees)  <br />
 29-34 RV zero-point offsets (m/s)  <br />
-35-40 Jitter terms (m/s)  <br />
+35-40 Sigma jitter terms (m/s)  <br />
 41 h (m/s)  <br />
 42 w  <br />
 45 logP_rot (log days) <br />
