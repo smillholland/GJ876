@@ -11,7 +11,6 @@ samples were thinned by uniqueness.
 The columns of the file are as follows. For the planet
 parameters, the columns are in orbital period order (i.e. planets "d", "c", "b", "e"). 
 
-Columns <br />
 0-3 Periods (days)  <br />
 4-7 Semi-major axes (AU)  <br />
 8-11 Masses (Earth masses)  <br />
@@ -27,3 +26,5 @@ Columns <br />
 45 logP_rot (log days) <br />
 46 Lambda (days)  <br /> 
 47 log-likelihood  <br />
+
+Feel free to direct questions or comments to sarah [dot] millholland [at] yale [dot] edu.
