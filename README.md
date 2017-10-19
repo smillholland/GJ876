@@ -4,7 +4,7 @@ Gliese 876 - Supplementary Material
 This respository contains supplementary material to the paper <br />
 Millholland, S., et al. <i> Gliese 876 - Exemplar of Mean-Motion Resonance. </i> 2017, in prep
 
-The file "posterior_samples.csv" contains the DE-MCMC posterior parameter samples for the four-planet coplanar fit 
+The file "posterior_samples.csv" contains the DE-MCMC posterior parameter samples for the four-planet coplanar fit, which is 
 described in Section 4 and summarized in Table 4 of the paper. To fit within GitHub's size limitations, the posterior
 samples were thinned by uniqueness.
 
