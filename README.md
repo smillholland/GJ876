@@ -1,7 +1,9 @@
 
 
-0-3 Periods (days) \\ 
+0-3 Periods (days) 
+
 4-7 Semi-major axes (AU)
+
 8-11 Masses (Earth masses)
 12-15 Eccentricities
 16-19 Arguments of periastron (degrees)
