@@ -1,4 +1,4 @@
-Gliese 876 - Supplementary Material
+Gliese 876 - Posterior Samples
 ==================================================
 
 This respository contains supplementary material to the paper <br />
