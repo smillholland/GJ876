@@ -4,7 +4,7 @@ Gliese 876 - Posterior Samples from RV Fit
 This respository contains supplementary material to the paper <br />
 Millholland, S., Laughlin, G., Teske, J., et al. <i> New Constraints on Gliese 876 - Exemplar of Mean-Motion Resonance. </i> 2017, submitted to AJ
 
-The files "posterior_samples1.csv", "posterior_samples2.csv", and "posterior_samples3.csv" contain the DE-MCMC posterior parameter samples for the four-planet coplanar radial velocity fit, which is described in Section 4 and summarized in Table 4 of the paper. The epoch of fit is 2450602.09311 BJD. <br />
+The files "posterior_samples1.csv", "posterior_samples2.csv", and "posterior_samples3.csv" contain DE-MCMC posterior parameter samples for the four-planet coplanar radial velocity fit, which is described in Section 4 and summarized in Table 4 of the paper. The epoch of fit is 2450602.09311 BJD. <br />
 To fit within GitHub's size limitations, the posterior samples were thinned by uniqueness. The columns of the files are provided below. For the planet parameters, the columns are in orbital period order (i.e. planets "d", "c", "b", "e"). 
 
 0-3 Periods (days)  <br />
