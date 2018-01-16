@@ -9,18 +9,22 @@ To fit within GitHub's size limitations, the posterior samples were thinned by u
 
 0-3 Periods (days)  <br />
 4-7 Semi-major axes (AU)  <br />
-8-11 Masses (Earth masses)  <br />
-12-15 Eccentricities  <br />
-16-19 Arguments of periastron (degrees)  <br />
-20-23 Mean anomalies (degrees)  <br />
-24-27 Arg. of peri. plus mean anom. (degrees)  <br />
-28 Inclination (degrees)  <br />
-29-34 RV zero-point offsets (m/s)  <br />
-35-40 Sigma jitter terms (m/s)  <br />
-41 h (m/s)  <br />
-42 w  <br />
-45 logP_rot (log days) <br />
-46 Lambda (days)  <br /> 
-47 log-likelihood  <br />
+8-11 RV semi-amplitudes (m/s)  <br />
+12-15 Masses (Earth masses)  <br />
+16-19 Eccentricities  <br />
+20-23 Arguments of periastron (degrees)  <br />
+24-27 Mean anomalies (degrees)  <br />
+28-31 Arg. of peri. plus mean anom. (degrees)  <br />
+32-35 e cos(arg. peri.)
+36-39 e sin(arg. peri.)
+40-43 Longitude of the ascending node (degrees) <br />
+44-47 Inclination (degrees)  <br />
+48-53 RV zero-point offsets (m/s)  <br />
+54-59 Sigma jitter terms (m/s)  <br />
+60 h (m/s)  <br />
+61 w  <br />
+62 logP_rot (log days) <br />
+63 Lambda (days)  <br /> 
+64 log-likelihood  <br />
 
 Feel free to direct questions or comments to sarah [dot] millholland [at] yale [dot] edu.
