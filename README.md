@@ -15,8 +15,8 @@ To fit within GitHub's size limitations, the posterior samples were thinned by u
 20-23 Arguments of periastron (degrees)  <br />
 24-27 Mean anomalies (degrees)  <br />
 28-31 Arg. of peri. plus mean anom. (degrees)  <br />
-32-35 e cos(arg. peri.)
-36-39 e sin(arg. peri.)
+32-35 e cos(arg. peri.) <br />
+36-39 e sin(arg. peri.) <br />
 40-43 Longitude of the ascending node (degrees) <br />
 44-47 Inclination (degrees)  <br />
 48-53 RV zero-point offsets (m/s)  <br />
